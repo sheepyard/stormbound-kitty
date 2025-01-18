@@ -80,7 +80,7 @@
     "nodemon": "^3.0.2",
     "npx-import": "^1.1.4",
     "prettier": "^3.3.3",
-    "replace-in-file": "^8.1.0",
+    "replace-in-file": "^8.3.0",
     "webpack": "^5.94.0"
   },
   "lint-staged": {
