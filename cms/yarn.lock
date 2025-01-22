@@ -5797,8 +5797,8 @@ validate-npm-package-license@^3.0.1:
     spdx-expression-parse "^3.0.0"
 
 vite@^4.4.4:
-  version "4.5.5"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-4.5.5.tgz#639b9feca5c0a3bfe3c60cb630ef28bf219d742e"
+  version "4.5.9"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-4.5.9.tgz#f4dfd4c4295743b50c3e3f90df798d70de699e4f"
   dependencies:
     esbuild "^0.18.10"
     postcss "^8.4.27"
